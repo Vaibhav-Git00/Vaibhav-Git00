@@ -20,7 +20,7 @@
 ## Connect with Me🫱🏻‍🫲🏻
 
 - [LinkedIn](https://www.linkedin.com/in/vaibhav-kesharwani-1564492ab/)
-- [Twitter](https://x.com/itsvaibhavTwit?s=08)
+- [Twitter](https://x.com/itsvaibhavTwit)
 - [LinkTree](https://linktr.ee/kesharwanivaibhav)
 
 <h3 align="left">Connect with me:</h3>
