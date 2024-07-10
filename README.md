@@ -11,7 +11,7 @@
 
 
 ## Achievements🏆
-- Represented Uttar Pradesh in SGFI Ball Badminton National championship . (15/2018)
+- Represented Uttar Pradesh in SGFI Ball Badminton National championship . (15/2019)
 
 
 ## Tech Stack👩🏻‍💻
