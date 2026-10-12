@@ -5,7 +5,7 @@
 <p align="left">
 </p>
 
-- I'm a 3rd year Computer Science Engineering student at Chitkara University, Punjab.
+
 - I'm currently learning Data Structures and Algorithms in Java.
 - I aspire to become a proficient and innovative software engineer, constantly learning and adapting to the latest technological advancements.
 
